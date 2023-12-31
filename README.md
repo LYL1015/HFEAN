@@ -95,3 +95,17 @@ The configuration options are stored in the `option.yaml` file and `test.py`. He
 
 Our work is based on the following projects:
 - [Awaresome-pansharpening](https://github.com/manman1995/Awaresome-pansharpening/tree/main)
+
+## Citation
+
+If you find DIRFL is useful in your research, please cite our paper:
+
+```
+@inproceedings{wang2023learning,
+  title={Learning High-frequency Feature Enhancement and Alignment for Pan-sharpening},
+  author={Wang, Yingying and Lin, Yunlong and Meng, Ge and Fu, Zhenqi and Dong, Yuhang and Fan, Linyu and Yu, Hedeng and Ding, Xinghao and Huang, Yue},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={358--367},
+  year={2023}
+}
+```
