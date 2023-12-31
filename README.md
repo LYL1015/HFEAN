@@ -1,6 +1,6 @@
 # <p align=center> :fire: `Learning High-frequency Feature Enhancement and Alignment for Pan-sharpening (ACM MM 2023)`</p>
 
-![Python 3.8](https://img.shields.io/badge/python-3.8-g) ![pytorch 1.12.0](https://img.shields.io/badge/pytorch-1.12.0-blue.svg) [![paper](https://img.shields.io/badge/github-Paper-brightgreen)(https://zhenqifu.github.io/personal_page/23_MM2.pdf)]
+![Python 3.8](https://img.shields.io/badge/python-3.8-g) ![pytorch 1.12.0](https://img.shields.io/badge/pytorch-1.12.0-blue.svg) [![paper](https://img.shields.io/badge/github-Paper-brightgreen)](https://zhenqifu.github.io/personal_page/23_MM2.pdf)
 
 
 
